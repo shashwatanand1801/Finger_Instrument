@@ -1,4 +1,4 @@
-# Finger_Instrument
+# Finger Instrument
 
 Done :
 Used Media Pipe library by google for locating fingers.
